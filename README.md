@@ -30,5 +30,5 @@ Protoflio is a responsive personal portfolio website designed to showcase my ski
 - Deploy using GitHub Pages
 
 ## 👤 Author
-**Farah Wudd Dongga**  
-Cybersecurity Graduate | Web Security Enthusiast
+**Farah Adam**  
+BSc(IT) gradute | MCA(Hons) Cybersecurity 
