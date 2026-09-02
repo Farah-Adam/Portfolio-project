@@ -24,11 +24,7 @@ Protoflio is a responsive personal portfolio website designed to showcase my ski
 - `index.html` – Home page
 - Other pages – About, Projects, Contact
 
-## 📸 Screenshots
-(Add screenshots here)
-
 ## 📌 Future Improvements
-- Add backend contact form
 - Improve UI animations
 - Deploy using GitHub Pages
 
